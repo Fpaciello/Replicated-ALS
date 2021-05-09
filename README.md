@@ -24,6 +24,7 @@ Replicated version of [Advanced Locomotion System V4](https://www.unrealengine.c
 - **C++ project is a requirement. BP projects are currently not supported**.
 - Clone the repository inside your project's `Plugins` folder, or download the latest release and extract it into your project's `Plugins` folder.
 - Put `Config/DefaultInput.ini` from the plugin folder inside your project's config folder. If your project already have this `.ini` file, merge it into yours.
+- Put `Config/DefaultEngine.ini` from the plugin folder inside your project's config folder or merge `[/Script/Engine.CollisionProfile]` section in ini file with your project's `DefaultEngine.ini` file.
 - Regenerate Visual Studio project files and build your project.
 - Launch the project, and enable plugin content viewer as seen below. This will show contents of the plugin in your content browser:
 ![image](https://github.com/eyupalemdar/Replicated-ALS/blob/main/Resources/Readme_Content_1.png)
