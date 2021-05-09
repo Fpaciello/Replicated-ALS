@@ -1,7 +1,7 @@
 # Replicated - Advanced Locomotion System
-![Image](https://github.com/eyupalemdar/Replicated-ALS/raw/main/Screenshots/Header.gif)
+![Image](https://github.com/eyupalemdar/Replicated-ALS/blob/main/Resources/Readme_Content_2.gif)
 
-Replicated version of [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) for **Unreal Engine 4.26**.
+Replicated version of [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) for **Unreal Engine 4.26**. Almost fully implemeted in Blueprint (%5 C++ and %95 Blueprint scripting) to preserve original ALS framework and power of Blueprint scrinting.
 
 ## Supported Platforms
 - Windows
@@ -10,7 +10,7 @@ Replicated version of [Advanced Locomotion System V4](https://www.unrealengine.c
 
 ## Features
 - Based on latest marketplace release.
-- Fully implemented in C++.
+- %5 impelemented in C++ and %95 impelemented in Blueprint scripting.
 - Full replication support with low bandwidth usage.
 - Plugin structure.
 - Highly optimized for production.
@@ -26,7 +26,7 @@ Replicated version of [Advanced Locomotion System V4](https://www.unrealengine.c
 - Put `Config/DefaultInput.ini` from the plugin folder inside your project's config folder. If your project already have this `.ini` file, merge it into yours.
 - Regenerate Visual Studio project files and build your project.
 - Launch the project, and enable plugin content viewer as seen below. This will show contents of the plugin in your content browser:
-![image](https://github.com/eyupalemdar/Replicated-ALS/raw/main/Screenshots/ShowPluginContent.png)
+![image](https://github.com/eyupalemdar/Replicated-ALS/blob/main/Resources/Readme_Content_1.png)
 
 ## License & Contribution
 **Source code** of the plugin is licensed under MIT license, and other developers are encouraged to fork the repository, open issues & pull requests to help the development.
