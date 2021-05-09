@@ -1,7 +1,7 @@
 # Replicated - Advanced Locomotion System
 ![Image](https://github.com/eyupalemdar/Replicated-ALS/blob/main/Resources/Readme_Content_2.gif)
 
-Replicated version of [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) for **Unreal Engine 4.26**. Almost fully implemented in Blueprint (%5 C++ and %95 Blueprint scripting) to preserve original ALS framework and power of Blueprint scripting. It is based on [community](https://github.com/dyanikoglu/ALS-Community) version.
+Replicated version of [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) for **Unreal Engine 4.26**. Almost fully implemented in Blueprint (%5 C++ and %95 Blueprint scripting) to preserve original ALS framework and power of Blueprint scripting. Inspired by the [community](https://github.com/dyanikoglu/ALS-Community) project.
 
 ## Supported Platforms
 - Windows
